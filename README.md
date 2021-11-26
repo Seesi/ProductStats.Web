@@ -2,6 +2,8 @@
 
 A simple api with one endpoint to retrive product details with some metatdata thus maximum and minimum prices of all products and available sizes of all products
 
+> **Note** Project was built with .NET 6 SDK and VisulStudio 2022
+
 ## Projects Structure
 
 - ### Web.Host: Web api (AspNet Core Web Api)
