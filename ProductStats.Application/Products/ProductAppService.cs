@@ -8,7 +8,7 @@
 
             var disticntProductSizes = products.GetDisticntProductSizes();
 
-            var (max, min) = products.GetMaxMinPrice();
+            var (min, max) = products.GetMaxMinPrice();
 
             var filteredProducts = products.GetFilteredProducts(size, maxPrice);
 
